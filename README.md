@@ -7,9 +7,9 @@ All you need to do is copy all files of "plug-ins" folder to your local folder i
 ## Installation
 
 ```console
-git clone git@github.com:fberbert/gimp-instagram-filters.git
-cd gimp-instagram-filters
-cp plug-ins/*py ~/.config/GIMP/2.10/plug-ins
+$ git clone git@github.com:fberbert/gimp-instagram-filters.git
+$ cd gimp-instagram-filters
+$ cp plug-ins/*py ~/.config/GIMP/2.10/plug-ins
 ```
 
 NOTE: 2.10 is my current Gimp version, change it if necessary.
